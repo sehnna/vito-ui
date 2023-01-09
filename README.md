@@ -1,1 +1,1 @@
-# vito-ui
+# Vito UI Library by React.js
